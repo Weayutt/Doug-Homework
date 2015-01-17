@@ -10,3 +10,5 @@ Upon 50% and 100% course completion there will be an extra 'skin code' award.
 Every project must be contained in it's own folder and all code must be executable by anyone running python 2.7 for Windows.
 
 Every folder must have a readme, and python code must end in .py
+
+Wy must also defend his code and answer any questions about it.
