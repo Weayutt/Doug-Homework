@@ -1,2 +1,2 @@
-list = "red card katarina. victorius elise. riot k9 nasus (two of them) WIP"
+list = "Red Card Katarina and riot K-9 Nasus"
 print list
