@@ -1,0 +1,1 @@
+I learned to use if elif and else to return intergers if a statment was true or false.
